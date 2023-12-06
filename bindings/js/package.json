@@ -1,6 +1,6 @@
 {
   "name": "libredwg",
-  "version": "0.0.0",
+  "version": "0.0.0-dev.0",
   "description": "GNU LibreDWG is a free library to handle DWG/DXF files",
   "main": "index.js",
   "repository": "git://fr-an-k/libredwg.git",
